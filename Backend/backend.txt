@@ -1,2 +1,0 @@
-npm i dotenv
-have to make sure about the .env is present in gitignore file 
